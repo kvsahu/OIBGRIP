@@ -1,4 +1,3 @@
-let screen= document.getElementById('screen');
 const display = document.querySelector("#display");
 const buttons = document.querySelectorAll("button");
 
